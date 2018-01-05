@@ -26,7 +26,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1604" y="-333"/>
+            <point key="canvasLocation" x="1666" y="-367"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="bjz-QL-2v8">
@@ -44,7 +44,25 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7ZB-01-RCO" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2372" y="-333"/>
+            <point key="canvasLocation" x="2391" y="-367"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="pjq-5y-0Lz">
+            <objects>
+                <viewController id="nrB-A7-lFp" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="XPi-mf-oW2"/>
+                        <viewControllerLayoutGuide type="bottom" id="Jmp-Ii-9Gw"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="7xl-p8-qgx">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.1924581826" green="0.67379677299999996" blue="0.82411503789999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="N77-7p-xNe" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3132" y="-363"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="quT-61-Lxd">
@@ -57,7 +75,7 @@
                     <view key="view" contentMode="scaleToFill" id="Fpr-Ap-2vk">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.43617826700000001" green="0.47934907669999999" blue="0.93531614539999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9sZ-ju-jde" userLabel="First Responder" sceneMemberID="firstResponder"/>
