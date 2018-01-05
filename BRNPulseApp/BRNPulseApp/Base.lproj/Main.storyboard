@@ -88,6 +88,12 @@
                                 <rect key="frame" x="79" y="234" width="282" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </slider>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bsV-iK-j6F">
+                                <rect key="frame" x="38" y="318" width="256" height="77"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="0.25098040700000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="sandeep"/>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="0.99273806809999998" green="0.91032081840000001" blue="0.78807300329999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
